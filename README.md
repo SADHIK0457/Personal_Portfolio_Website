@@ -147,12 +147,15 @@ Make sure method is "POST".
 
 
 🌈 Screenshots
+
 💻 Desktop View :
+
 <img width="1890" height="910" alt="desktop-view" src="https://github.com/user-attachments/assets/5161674a-5702-4cc2-9ce5-a6e4e28c8785" />
 
 
 
 📱 Mobile View :
+
 <img width="522" height="877" alt="mobile-view" src="https://github.com/user-attachments/assets/6404aeb2-fe22-4817-8a7f-7de00191a1d2" />
 
 
